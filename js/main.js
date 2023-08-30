@@ -1,7 +1,7 @@
 
 $(document).ready(function(){
 
-  $('.team-slider').slick({
+  /* $('.team-slider').slick({
     infinite: true,
 	  slidesToShow: 3,
 	  slidesToScroll: 3,
@@ -26,7 +26,7 @@ $(document).ready(function(){
       }
     }
   ]
-  });
+  }); */
 
   $('.social-slide').slick({
     infinite: true,
