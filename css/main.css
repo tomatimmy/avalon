@@ -308,7 +308,8 @@ form .form-control {
   .header-wrapper .navbar {
     padding: 30px 0px 24px; }
   .header-wrapper .navbar-nav {
-    width: 100%; }
+    width: 100%;
+    align-items: center; }
     .header-wrapper .navbar-nav .nav-link {
       padding: 0px 14px;
       font-weight: 300; }
