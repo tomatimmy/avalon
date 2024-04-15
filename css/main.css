@@ -632,6 +632,7 @@ section.content_center .btn {
 }
 
 .rooted-area {
+  margin-top: 15% !important;
   padding-left: calc(calc(100% - 1300px) / 2);
 }
 
@@ -1015,7 +1016,7 @@ section.content_center .btn {
 
 @media (min-width: 1024px) {
   .tropical-banner .entry-img img {
-    margin-bottom: -250px;
+    margin-bottom: -490px;
   }
 }
 
@@ -1034,8 +1035,8 @@ section.content_center .btn {
 
 @media (min-width: 1024px) {
   .earth-care {
-    margin-top: 90px;
-    padding-bottom: 150px;
+    /* margin-top: 90px;
+    padding-bottom: 150px; */
   }
 }
 
