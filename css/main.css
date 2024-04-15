@@ -685,7 +685,7 @@ section.content_center .btn {
 
 @media (min-width: 1024px) {
   .learning_wrapper {
-    margin-top: 120px;
+    /* margin-top: 120px; */
   }
 }
 
@@ -835,7 +835,7 @@ section.content_center .btn {
 }
 
 .footer-wrapper {
-  background-color: #673d2c;
+  background-color: #33542d;
   padding: 47px 0px 10px;
   color: white;
   font-weight: 300;
